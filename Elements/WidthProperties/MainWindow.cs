@@ -8,7 +8,7 @@ namespace WidthProperties
 {
     /// <summary>
     ///     Interaction logic for MainWindow.xaml
-    /// </summary>
+    /// </summary> this is testy
     public partial class MainWindow : Window
     {
         public MainWindow()
