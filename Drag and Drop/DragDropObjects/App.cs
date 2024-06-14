@@ -10,5 +10,6 @@ namespace DragDropObjects
     /// </summary>
     public partial class App : Application
     {
+Int Yousof = 14;
     }
 }
